@@ -1,4 +1,4 @@
-# Portfolio made by [TeqN2022](https://github.com/TeqN2022)
+# Checker made by [TeqN2022](https://github.com/TeqN2022)
 
 ## 📝 Language
 
