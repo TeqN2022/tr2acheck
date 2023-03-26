@@ -1,13 +1,19 @@
 # Portfolio made by [TeqN2022](https://github.com/TeqN2022)
 
-## 📝 Credits
+## 📝 Language
 
  - [Python](https://www.python.org/)
+ - [HTML](https://www.w3schools.com/html/)
+ - [CSS](https://www.w3schools.com/css/)
+ - [JS](https://www.w3schools.com/js/)
  
- Description: This is my portfolio website. I made it with Next.js and Tailwind CSS. I used Next.js for the server side rendering and Tailwind CSS for the styling. I used the Next.js with Tailwind CSS
-## 🚀 Demo
+## 🚀 Site
 
 https://tr2a.xyz
+
+## 🚀 Register
+
+https://discord.gg/pan3l
 
 ## 📄 License
 
