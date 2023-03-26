@@ -11,7 +11,7 @@
 
 https://tr2a.xyz
 
-## 🚀 Register
+## 🧾 Register
 
 https://discord.gg/pan3l
 
